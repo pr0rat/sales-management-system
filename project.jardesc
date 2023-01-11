@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/files/BISF/project/osfms/project.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/OSFMS/project.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=OSFMS/src&lt;{splash.java[splash" manifestLocation="/OSFMS/project" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=OSFMS/src"/>
+        <file path="/OSFMS/miglayout-src.zip"/>
+        <file path="/OSFMS/.project"/>
+        <file path="/OSFMS/.classpath"/>
+    </selectedElements>
+</jardesc>
